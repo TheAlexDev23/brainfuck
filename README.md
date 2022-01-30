@@ -1,5 +1,1 @@
-# Brainf-ck
-
-This is a collection of interpreters and “compilers” for in the BrainFuck programming language, written in several programming languages.
-
-- [ ] Finished
+# Brainfuck Compiler Written in the C progamming language
